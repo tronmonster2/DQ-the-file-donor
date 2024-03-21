@@ -152,7 +152,7 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴀʟᴘʜᴀ ᴍᴏɴꜱᴛᴇʀ
 • ᴜꜱᴇʀɴᴀᴍᴇ : @alpha_monster_bot """
 
     REQINFO = """
@@ -198,8 +198,8 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/+PwzIx4M3JTo3Nzc1">JOIN</a>
-▫️  ɢʀᴏᴜᴘ : <a href="https://t.me/+_RXoJ3_lYWoyOGY9">JOIN</a>
+▫️ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/+PwzIx4M3JTo3Nzc1">▂▃▅▇█▓▒░ 🅹🅾🅸🅽 ░▒▓█▇▅▃▂</a>
+▫️  ɢʀᴏᴜᴘ : <a href="https://t.me/+_RXoJ3_lYWoyOGY9">▂▃▅▇█▓▒░ 🅹🅾🅸🅽 ░▒▓█▇▅▃▂</a>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
