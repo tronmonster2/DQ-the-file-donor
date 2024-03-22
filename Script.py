@@ -198,8 +198,8 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/+PwzIx4M3JTo3Nzc1">▂▃▅▇█▓▒░ 🅹🅾🅸🅽 ░▒▓█▇▅▃▂</a>
-▫️  ɢʀᴏᴜᴘ : <a href="https://t.me/+_RXoJ3_lYWoyOGY9">▂▃▅▇█▓▒░ 🅹🅾🅸🅽 ░▒▓█▇▅▃▂</a>
+▫️ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/+PwzIx4M3JTo3Nzc1">▂▃▅ 🅹🅾🅸🅽 ▅▃▂</a>
+▫️  ɢʀᴏᴜᴘ : <a href="https://t.me/+_RXoJ3_lYWoyOGY9">▂▃▅ 🅹🅾🅸🅽 ▅▃▂</a>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
