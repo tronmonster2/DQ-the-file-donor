@@ -199,7 +199,7 @@ Nᴀᴍᴇ - {}"""
 <b>
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/+PwzIx4M3JTo3Nzc1">▂▃▅ 🅹🅾🅸🅽 ▅▃▂</a>
-▫️  ɢʀᴏᴜᴘ : <a href="https://t.me/+_RXoJ3_lYWoyOGY9">▂▃▅ 🅹🅾🅸🅽 ▅▃▂</a>
+▫️  ɢʀᴏᴜᴘ : <a href="https://t.me/alpha_movies_hindi"</a>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
